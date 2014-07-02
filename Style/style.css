@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Images/BG.png");
+   background-color: rgb(31, 46, 86);
 }
 
 .banner {
@@ -8,6 +8,14 @@ body {
     border-color: #494e53;
     
 }
+
+div hr {
+ 
+    background-color: rgb(45, 68, 134);
+    width:auto;
+    height:100px;
+}
+
 
 /*************************Padding*************************/
 .padding-top{
