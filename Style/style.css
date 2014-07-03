@@ -1,5 +1,5 @@
 body {
-   background-color: rgb(51, 31, 82); 
+   background-color: rgb(31, 46, 86); 
 }
 
 .banner {
@@ -30,20 +30,14 @@ body {
     
 }
 
-.scrollNews {
-    
-    overflow:scroll;
-    height:100%;
-    width:100%;
-    font-size:32px;
-    
-}
-
 .logo {
     
     position:absolute;
     margin-left:25%;
-
+    background-color: rgb(45 ,68, 134);
+    width:49%;
+    height:20%;
+    
 }
 
 .body {
